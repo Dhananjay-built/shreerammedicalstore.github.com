@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding:0;
+}
+html{
+    scroll-behavior: smooth;
+}
+#class1{
+    width:100%;
+    height:110vh;
+    overflow: hidden;
+}
+#class2{
+    width:100%;
+    height:130vh;
+}
+#class3{
+    width: 100%;
+    height:500px;
+}
+#class4{
+    width:100%;
+    height:auto;
+}
